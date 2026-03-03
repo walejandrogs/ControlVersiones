@@ -13,7 +13,7 @@ import net.serenitybdd.screenplay.Question;
  */
 public class Default2Question implements Question<String> {
     private static String name;
-
+    private static String lastName;
 
     @Override
     public String answeredBy(Actor actor) {
