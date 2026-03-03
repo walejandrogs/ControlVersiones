@@ -4,5 +4,12 @@ public class DB2 {
     public static void nameMethod(){
 
     }
+    public static void lastnameMethod(){
+
+    }
+    public static void emailMethod(){
+
+    }
+
 
 }
