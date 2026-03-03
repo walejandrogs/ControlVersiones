@@ -15,5 +15,9 @@ public class DB2 {
 
     }
 
+    public void otroMetodo(){
+        
+    }
+
 
 }
