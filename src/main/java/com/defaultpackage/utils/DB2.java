@@ -11,5 +11,9 @@ public class DB2 {
 
     }
 
+    public static void phoneMethod(){
+
+    }
+
 
 }
